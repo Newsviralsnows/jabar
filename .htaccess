@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ https://saynotofailure.pages.dev/success/ [R=301,L]
